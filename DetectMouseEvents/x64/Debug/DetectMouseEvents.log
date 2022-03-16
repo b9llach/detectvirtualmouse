@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\billy\Downloads\DetectMouseEvents-master\DetectMouseEvents-master\DetectMouseEvents\main.c(44,38): warning C4133: 'function': incompatible types - from 'char *' to 'LPCWSTR'
+C:\Users\billy\Downloads\DetectMouseEvents-master\DetectMouseEvents-master\DetectMouseEvents\main.c(44,51): warning C4133: 'function': incompatible types - from 'char [10]' to 'LPCWSTR'
+C:\Users\billy\Downloads\DetectMouseEvents-master\DetectMouseEvents-master\DetectMouseEvents\main.c(57,44): warning C4133: 'function': incompatible types - from 'char [23]' to 'LPCWSTR'
+C:\Users\billy\Downloads\DetectMouseEvents-master\DetectMouseEvents-master\DetectMouseEvents\main.c(57,52): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+  DetectMouseEvents.vcxproj -> C:\Users\billy\Downloads\DetectMouseEvents-master\DetectMouseEvents-master\x64\Debug\DetectMouseEvents.exe
